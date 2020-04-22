@@ -64,8 +64,8 @@ this too, shall pass
 
 ### Journal papers
 
-* DeepCP: Deep Learning Driven Cascade Prediction Based Autonomous Content Placement in Closed Social Network[J]. JSAC
-* Deep Reinforcement Learning with Spatio-temporal Traffic Forecasting for Data-Driven Base Station Sleep Control[J]. ToN
+* DeepCP: Deep Learning Driven Cascade Prediction Based Autonomous Content Placement in Closed Social Network[J]. JSAC 2020
+* Deep Reinforcement Learning with Spatio-temporal Traffic Forecasting for Data-Driven Base Station Sleep Control[J]. ToN 2020
 * Mobile Social Data Learning for User-Centric Location Prediction with Application in Mobile Edge Service Migration[J]. IoTJ 2019
 * On Carrier Sensing Accuracy and Range Scaling Laws in Nakagami Fading Channels[J]. Wireless Communications and Mobile Computing, 2017.
 * Design, Implementation and Measurement of a Crowdsourcing-based Content Distribution Platform[J]. ACM Transactions on Multimedia Computing, Communications, and Applications, 2016.
@@ -111,6 +111,7 @@ this too, shall pass
 ## Repository
 
 * reference papers on RS and Ads : https://github.com/leoncuhk/recsys-papers
+* some notes for data science and machine learning : https://leoncuhk.gitbooks.io/smartdata/content/
 * survey on feature engineering approaches : https://leoncuhk.gitbooks.io/feature-engineering/content/
 
 
