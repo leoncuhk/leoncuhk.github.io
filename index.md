@@ -82,7 +82,6 @@ this too, shall pass
 
 ### Conference papers
 * Dynamic Interaction Driven User Relationship Prediction in WeChat Red Packet Network
-* GAIN: Graph Attention & Interaction Network for Inductive Supervised Learning over Large-scale Graphs
 * Information Cascades over Diffusion-Restricted Social Network: A Data-Driven Analysis[C]. INFOCOM Workshop 2019
 * User-Centric Location Prediction in Mobile Social Networks: A Factor Graph Learning Approach[C]. IEEE Globecom 2018.
 * WeChat Toxic Article Detection: A Data-Driven Machine Learning Approach[C]. APSIPA ASC 2018.
