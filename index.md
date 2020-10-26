@@ -64,6 +64,8 @@ this too, shall pass
 
 ### Journal papers
 
+* GAIN: Graph Attention & Interaction Network for Inductive Semi-Supervised Learning over Large-scale Graphs[J]. TKDE 2020
+* Identifying User Relationship on WeChat Money-Gifting Network[J]. TKDE 2020
 * DeepCP: Deep Learning Driven Cascade Prediction Based Autonomous Content Placement in Closed Social Network[J]. JSAC 2020
 * Deep Reinforcement Learning with Spatio-temporal Traffic Forecasting for Data-Driven Base Station Sleep Control[J]. ToN 2020
 * Mobile Social Data Learning for User-Centric Location Prediction with Application in Mobile Edge Service Migration[J]. IoTJ 2019
