@@ -14,12 +14,6 @@ this too, shall pass
 
 ## Working Experience
 
-### Academia
-
-* Assistant Professor in the College of Information Engineering of SZU, 2014-2017
-* Postdoctoral Fellow in the Dept. of Information Engineering of CUHK, 2013-2014
-* Part-time research assistant at the Institute of Network Coding of CUHK, 2012-2013
-
 ### Industry
 
 * Expert Researcher at Tencent Inc., Shenzhen, 2017-present
@@ -27,25 +21,31 @@ this too, shall pass
 * Chief Scientist at Fengshen Co., Guangzhou, 2016-2017
 * Research Consultant at Tencent Inc., Shenzhen, 2012-2015
 
+### Academia
+
+* Assistant Professor in the College of Information Engineering of SZU, 2014-2017
+* Postdoctoral Fellow in the Department of Information Engineering of CUHK, 2013-2014
+* Research assistant at the Institute of Network Coding of CUHK, 2012-2013
+
 
 
 
 ## Projects
 
 * AI in quantitative finance
-  * XAI for fintech modeling
+  * XAI for FinTech modeling
   * Robo-advisor for low frequency trading market
 * Recommendation system/Computational advertising system
-  * Social-based financial news and financial products recommendation system
+  * Social-based financial products and news recommendation system
   * Reinforcement learning model based advertisement system
-  * Push notificaiton based video recommendation system
+  * Push-notifications based video recommendation system
 * Big data analytics in online video services
   * Fake view detection mechanism/analytics
   * User behavior modeling/analytics
   * Online video popularity modeling/analytics
 * Networking
   * Data-driven QoE optimization for mobile online video streaming
-  * Pattern recognition in large-scale networking systems
+  * Pattern recognition research in large-scale networking systems
 
 
 
