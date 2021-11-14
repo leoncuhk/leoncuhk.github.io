@@ -5,10 +5,9 @@ this too, shall pass
 
 ## Educations
 
-* Ph.D. Information Engineering, Chinese University of Hong Kong, 2013
+* Ph.D. Information Engineering, Chinese University of Hong Kong, 2013 (Advisor: Professor Dah Ming Chiu)
 * M.Phil. Information Engineering, Chinese University of Hong Kong, 2009
-* B.Sc. System Science and Engineering, Zhejiang University
-  B.Sc. Electronic Information Engineering (second major), Zhejiang University
+* B.Sc. System Science and Engineering, Zhejiang University & B.Sc. Electronic Information Engineering (second major), Zhejiang University
 
 
 
@@ -34,11 +33,11 @@ this too, shall pass
 
 * AI in quantitative finance
   * XAI for FinTech modeling
-  * Robo-advisor for low frequency trading market
-* Recommendation system/Computational advertising system
-  * Social-based financial products and news recommendation system
+  * Robo-advisor for position trading in financial markets
+* Recommendation system and computational advertising system
+  * Social-based financial products recommendation system
   * Reinforcement learning model based advertisement system
-  * Push-notifications based video recommendation system
+  * Growth marketing model tools
 * Big data analytics in online video services
   * Fake view detection mechanism/analytics
   * User behavior modeling/analytics
