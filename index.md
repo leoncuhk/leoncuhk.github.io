@@ -5,8 +5,8 @@ this too, shall pass
 
 ## Educations
 
-* Ph.D. Information Engineering, Chinese University of Hong Kong, 2013 (Advisor: Professor Dah Ming Chiu)
-* M.Phil. Information Engineering, Chinese University of Hong Kong, 2009
+* Ph.D. Information Engineering, The Chinese University of Hong Kong, 2013 (Advisor: Professor Dah Ming Chiu)
+* M.Phil. Information Engineering, The Chinese University of Hong Kong, 2009
 * B.Sc. System Science and Engineering, Zhejiang University & B.Sc. Electronic Information Engineering (second major), Zhejiang University
 
 
@@ -15,7 +15,7 @@ this too, shall pass
 
 ### Industry
 
-* Expert Researcher at Tencent Inc., Shenzhen, 2017-present
+* Senior Expert at Tencent Inc., Shenzhen, 2017-present
 * Chief Consultant at Xunlei AI lab, Shenzhen, 2017
 * Chief Scientist at Fengshen Co., Guangzhou, 2016-2017
 * Research Consultant at Tencent Inc., Shenzhen, 2012-2015
@@ -31,13 +31,13 @@ this too, shall pass
 
 ## Projects
 
-* AI in quantitative finance
-  * XAI for FinTech modeling
+* AI in FinTech
+  * Causal AI and XAI for FinTech modeling
   * Robo-advisor for position trading in financial markets
 * Recommendation system and computational advertising system
   * Social-based financial products recommendation system
   * Reinforcement learning model based advertisement system
-  * Growth marketing model tools
+  * Growth system for financial digital marketing
 * Big data analytics in online video services
   * Fake view detection mechanism/analytics
   * User behavior modeling/analytics
@@ -51,11 +51,12 @@ this too, shall pass
 
 ## Fundamentals
 
-* Data Analytics/Big Data Mining
-* Machine Learning/Deep Learning
+* Machine Learning and Deep Learning
 * Deep Reinforcement Learning
 * Graph Neural Network
 * Model Interpretability
+* Causal Inference
+* Data Analytics and Big Data Mining
 
 
 
