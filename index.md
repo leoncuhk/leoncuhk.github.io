@@ -34,11 +34,11 @@ this too, shall pass
 * AI in FinTech
   * Causal AI and XAI for FinTech modeling
   * Robo-advisor for position trading in financial markets
-* Recommendation system and computational advertising system
-  * Social-based financial products recommendation system
-  * Reinforcement learning model based advertisement system
-  * Growth system for financial digital marketing
-* Big data analytics in online video services
+* Growth Marketing Tech and Recommendation System
+  * Growth framework for FinTech digital marketing
+  * Social-based recommendation system for financial products
+  * Reinforcement learning model based computational advertising system
+* Big Data Analytics in Online Video Service
   * Fake view detection mechanism/analytics
   * User behavior modeling/analytics
   * Online video popularity modeling/analytics
@@ -81,6 +81,9 @@ this too, shall pass
 
 
 ### Conference papers
+* Curriculum Modeling the Dependence among Targets with Multi-task Learning for Financial Marketing[C]. SigIR 2023
+* Optimizing Feature Set for Click-Through Rate Prediction[C]. WWW 2023
+* Self-Sampling Training and Evaluation for the Accuracy-Bias Tradeoff in Recommendation[C]. DASFAA 2023
 * Dynamic Interaction Driven User Relationship Prediction in WeChat Red Packet Network
 * Information Cascades over Diffusion-Restricted Social Network: A Data-Driven Analysis[C]. INFOCOM Workshop 2019
 * User-Centric Location Prediction in Mobile Social Networks: A Factor Graph Learning Approach[C]. IEEE Globecom 2018.
