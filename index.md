@@ -81,8 +81,9 @@ this too, shall pass
 
 
 ### Conference papers
-* Curriculum Modeling the Dependence among Targets with Multi-task Learning for Financial Marketing[C]. SigIR 2023
-* Optimizing Feature Set for Click-Through Rate Prediction[C]. WWW 2023
+* Prior-Guided Accuracy-Bias Tradeoff Learning for CTR Prediction in Multimedia Recommendation[C]. ACM MM 2023
+* Curriculum Modeling the Dependence among Targets with Multi-task Learning for Financial Marketing[C]. ACM SigIR 2023
+* Optimizing Feature Set for Click-Through Rate Prediction[C]. ACM WWW 2023
 * Self-Sampling Training and Evaluation for the Accuracy-Bias Tradeoff in Recommendation[C]. DASFAA 2023
 * Dynamic Interaction Driven User Relationship Prediction in WeChat Red Packet Network
 * Information Cascades over Diffusion-Restricted Social Network: A Data-Driven Analysis[C]. INFOCOM Workshop 2019
