@@ -81,6 +81,10 @@ this too, shall pass
 
 
 ### Conference papers
+* Treatment-Aware Hyperbolic Representation Learning for Causal Effect Estimation with Social Networks[C]. SDM 2024
+* OptDist: Learning Optimal Distribution for Customer Lifetime Value Prediction[C]. ACM ICDE 2024
+* Towards Hybrid-grained Feature Interaction Selection for Deep Sparse Network[C]. NeurIPS 2023
+* Expected Transaction Value Optimization for Precise Marketing in FinTech Platforms[C]. ACM RecSys DLP 2023
 * Prior-Guided Accuracy-Bias Tradeoff Learning for CTR Prediction in Multimedia Recommendation[C]. ACM MM 2023
 * Curriculum Modeling the Dependence among Targets with Multi-task Learning for Financial Marketing[C]. ACM SigIR 2023
 * Optimizing Feature Set for Click-Through Rate Prediction[C]. ACM WWW 2023
@@ -120,6 +124,10 @@ this too, shall pass
 * survey on feature engineering approaches : https://leoncuhk.gitbooks.io/feature-engineering/content/
 
 
+
+## Resume
+
+[CV](./archive/CV2024_Liang.pdf)
 
 
 
